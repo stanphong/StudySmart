@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#study-smart-title {
+	background-color: azure;
+	color: blue;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto; /* Centers it */
+	border-radius: 5px; /* Makes round corners */
+}
+
+.register-fields {
+	margin-left: auto;
+	margin-right: auto;
+}
